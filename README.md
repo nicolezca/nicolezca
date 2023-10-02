@@ -1,7 +1,8 @@
 <p align=center>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=200&color=CB17EE&center=true&vCenter=true&repeat=false&width=435&lines=Junior+Full-Stack+web+developer;Desing+UX-UI" alt="Typing SVG" /></a>
 </p>
-# 💫 About Me:
+
+#💫 About Me:
 I'm a Junior FullStack web developer who enjoys exploring the world of code. I turned my curiosity into a career, and I'm here to make my mark on the web. I'm always in search of new ways to simplify complexity and build amazing things. When I'm not in front of the screen, you'll probably find me enjoying a cup of coffee or pursuing new challenges
 
 
