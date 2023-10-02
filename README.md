@@ -1,7 +1,6 @@
-<p align="center">
-  <a href="https://github.com/nicolezca">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=200&color=CB17EE&center=true&vCenter=true&repeat=false&width=435&lines=Lezcano%20Agustin;" alt="Typing SVG" />
-</p>
+<h1 align=center>
+    Lezcano Agustin
+</h1>
 
 
 <p align=center>
