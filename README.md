@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/nicolezca">
-   <h1 color=CB17EE>Lezcano Agustin</h1>
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=200&color=CB17EE&center=true&vCenter=true&repeat=false&width=435&lines=Lezcano%20Agustin;" alt="Typing SVG" />
 </p>
 
 
 <p align=center>
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=200&color=CB17EE&center=true&vCenter=true&repeat=false&width=435&lines=Full-stack%20web%20Jr;Experienced%20UI%2FUX%20Designer" alt="Typing SVG" /></a>
+ </a>
 </p>
 
 ## 💫 About Me:
