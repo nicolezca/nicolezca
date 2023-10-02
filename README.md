@@ -1,11 +1,6 @@
-
 <p align="center">
   <a href="https://github.com/nicolezca">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Agustin Lezcano" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/nicolezca">
-   <h1 color=CB17EE></h1>
+   <h1 color=CB17EE>Lezcano Agustin</h1>
 </p>
 
 
